@@ -1,0 +1,29 @@
+C:.
+├─api//数据接口
+├─assets
+├─components//公共组件（放置公用的组件库）
+│  ├─FooterBar
+│  ├─HeaderBar
+│  └─loadding
+├─directive//自定义指令（vue的自定义指令主要用于操作dom）
+├─filter
+├─mock//模拟数据（axios用作数据的请求，axios-mock-adapter用于生成模拟的get和		post数据接口  mock.js用作生成json数据）
+│  └─data
+├─router
+├─static
+│  ├─images
+│  │  └─icon
+│  └─lib
+└─views
+    ├─ClassType
+    ├─Detail
+    ├─Home
+    │  └─compon
+    │      ├─im
+    │      ├─pr
+    │      ├─sl
+    │      └─Sl
+    ├─Search
+    ├─ShopCar
+    ├─Zoom
+    └─Zoomerji
